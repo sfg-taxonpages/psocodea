@@ -1,9 +1,9 @@
 ---
   project_name: "Psocodea Species File"
-  project_citation: "Psocodea.SpeciesFile.org"
-  project_authors: "TODO Add list of project authors, like 'DeWalt RE, Maehr MD, Hopkins H, Neu-Becker U, and Stueber G.'"
+  project_citation: "Psocodea Species File"
+  project_authors: "Johnson, K. P., Smith, V. S. & Hopkins, H. H."
   project_url: "https://psocodea.speciesfile.org"
   project_old_url: "http://Psocodea.archive.speciesfile.org" 
   focal_taxon: "Psocodea"
   focal_taxon_common_name: "Bark lice and parasitic lice"
-  contact_email: "TODO: Add a contact email to project.yml"
+  contact_email: "cockroachdoc@gmail.com"
