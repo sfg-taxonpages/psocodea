@@ -11,7 +11,7 @@ The Psocodea Species File works to build a comprehensive source for knowledge ab
 
 Explore!
 
-Try searching for species _[Epipsocus nepos](http://psocodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1192333)_, or start at Genus _[Epipsocus](http://psocodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1192313),_  or Family _[Epipsocidae](http://psocodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1192241)._
+Try searching for species _Epipsocus nepos_, or start your exploration at Genus [Epipsocus]({{app:project_url}}/otu/871679/overview),  or Family [Epipsocidae]({{app:project_url}}/otu/871605/overview).
 
 
 ## Discover more
