@@ -19,6 +19,6 @@ See our [About](about) page for an [overview](about#overview) of the project, it
 
 ## Announcements
 ### Welcome to our new Psocodea Species File Website
-Kevin P. Johnson, Vincent S. Smith, Heidi Hopkins, David C. Eades, 2023-08-15
+_Kevin P. Johnson, Vincent S. Smith, Heidi Hopkins, David C. Eades, 2023-08-15_
 <p>We look forward to hearing from you about your experiences with our new features as well as how you put to use the information you find here.
 </p>
