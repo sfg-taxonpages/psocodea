@@ -7,7 +7,7 @@ The Psocodea Species File works to build a comprehensive source for knowledge ab
 
 ## Search
 
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+<autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name"/>
 
 Explore!
 
