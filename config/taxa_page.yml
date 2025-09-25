@@ -20,3 +20,7 @@ taxa_page:
       rank_group: ['GenusGroup', 'SpeciesGroup']
       panels:
         - - - panel:inaturalist
+
+  biological_associations:
+    panels:
+      - - - panel:biological-associations
