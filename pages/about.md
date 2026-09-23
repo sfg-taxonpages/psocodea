@@ -14,7 +14,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 | Heidi Hopkins | Lead Curator |
 | Kevin P. Johnson\* | Founding Curator |
 | Vincent S. Smith\* | Founding Curator |
-| David C. Eades\* | Founding Developer |
+| David C. Eades\* | Species File Developer |
 
 _\* Past contributor, now inactive._
 
