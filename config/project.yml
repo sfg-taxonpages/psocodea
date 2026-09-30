@@ -1,9 +1,9 @@
 ---
   project_name: "Psocodea Species File"
   project_citation: "Psocodea Species File"
-  project_authors: "Hopkins, H., Johnson, K.P., & Smith, V.S."
+  project_authors: "Hopkins, H.,"
   project_url: "https://psocodea.speciesfile.org"
   project_old_url: "http://psocodea.archive.speciesfile.org" 
   focal_taxon: "psocodea"
-  focal_taxon_common_name: "lice and booklice"
+  focal_taxon_common_name: "lice, barklice and booklice"
   contact_email: "cockroachdoc@gmail.com"
