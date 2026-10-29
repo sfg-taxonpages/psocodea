@@ -26,4 +26,6 @@ taxa_page:
 
   biological_associations:
     panels:
-      - - - panel:biological-associations
+      - - - id: panel:biological-associations
+            bind:
+              tags: true
